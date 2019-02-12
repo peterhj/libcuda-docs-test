@@ -1,3 +1,2 @@
 var ALIASES = {};
-ALIASES['cuda'] = {};
-ALIASES['static_assertions'] = {};
+ALIASES["cuda"] = {};
